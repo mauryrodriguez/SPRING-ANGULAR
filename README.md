@@ -1,4 +1,4 @@
-#INTEGRANTES:
+# INTEGRANTES:
 Mauricio Rodriguez y Josue Garrido
 
 # Frontend
